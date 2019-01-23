@@ -174,3 +174,34 @@ img {
   float: left;
   margin-right: 10px;
 }
+.cat-promote .title:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  width: 5px;
+  height: 22px;
+  background: #dd182b;
+  margin-right: 10px;
+}
+.cat-promote .title {
+  font-size: 22px;
+}
+.cat-promote .item {
+  padding: 5px;
+}
+.cat-promote .card {
+  height: 300px;
+  background: #ccc;
+  border-radius: 6px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+.footer {
+  margin-top: 30px;
+  padding: 30px 0;
+  background: #eee;
+  text-align: center;
+  color: #999;
+}
+.footer a {
+  color: #999;
+}
