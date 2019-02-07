@@ -1,8 +1,22 @@
 FrontEnd 
 ===
 
-This Repo will focus on front end engineer exercise which includes html, css, javascript.
+Start to get knowledge on front end engineer
 ---
 
-Furthermore, jQuery, Angular.js. vue.js, and react.js will be covered.
+1. html
+2. css
+3. Javascript
+
+jQuery is the simplified Javascrapit. 
+
+Popular jQuery framework:
+1). Vue.js
+2). Angular.js
+3). React.js
+4). Node.js
+
+Bootstrap is also a front end framework which aimed at responsive design.
+
+
 
