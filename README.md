@@ -8,7 +8,7 @@ Start to get knowledge on front end engineer
 2. css
 3. Javascript
 
-jQuery is the simplified Javascrapit. 
+jQuery is the simplified Javascript. 
 
 
 Popular jQuery framework:
