@@ -50,7 +50,7 @@ npm install http-server --global
 4. go to your project directory
 
 ```
-cd C:\Users\exuJQuery.8
+cd C:\Users\exu\projectDirectory
 ```
 5. input http-server on your cmd
 
