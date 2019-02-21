@@ -11,7 +11,7 @@ Start to get knowledge on front end engineer
 jQuery is the simplified Javascript. 
 
 
-Popular jQuery framework:
+Popular frontend framework:
 
 1). Vue.js
 
