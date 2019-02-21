@@ -29,7 +29,7 @@ how to install AJax? (Asynchronous JavaScript and XML 异步请求)
 
 1. go to https://nodejs.org/en/ to download node.js
 
-2. go to cmd to check if we isntall succesufully
+2. go to cmd to check if we intall succesufully
 
 ```
 node -v
