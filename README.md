@@ -1,12 +1,12 @@
 FrontEnd 
 ===
 
-Start to get knowledge on front end engineer
+STRUCTURE
 ---
 
-1. html
-2. css
-3. Javascript
+1. html -- bone
+2. css -- flesh
+3. Javascript --joint
 
 jQuery is the simplified Javascript. 
 
